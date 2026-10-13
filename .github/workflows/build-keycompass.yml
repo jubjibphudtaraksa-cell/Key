@@ -20,4 +20,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: KeyCompass
-          path: KeyCompass/target/KeyCompass-1.0.0.jar
+          path: KeyCompass/KeyCompass-1.0.0.jar
